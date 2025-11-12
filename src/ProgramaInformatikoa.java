@@ -17,6 +17,9 @@ public class ProgramaInformatikoa{
         return "Goodbye!";
     }
 
+    /**
+     * Programa informatikoari buruzko informazioa inprimatzen du.
+     */
     public static void Informazioa() {
         System.out.println("PROGRAMA INFORMATIKOA: ");
         System.out.println("Programa informatikoa ordenagailu batek barneratu eta exekutatu ditzakeen adierazpenak dira. Normalean sekuentzialki exekutatzen dira baina zikloetan posible da ere bai.  ");
