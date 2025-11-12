@@ -16,5 +16,11 @@ public class ProgramaInformatikoa{
                         "\n" + //
                         "Driver-ak: periferikoekin elkarreragina.");
         System.out.println("");
+
+        goodbyeInprimatu();
+    }
+
+    public static String goodbyeInprimatu() {
+        return "Goodbye!";
     }
 }
