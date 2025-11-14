@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"ProgramaInformatikoa","l":"goodbyeInprimatu()"},{"p":"<Unnamed>","c":"ProgramaInformatikoa","l":"Informazioa()"},{"p":"<Unnamed>","c":"ProgramaInformatikoa","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"ProgramaInformatikoa","l":"ProgramaInformatikoa()","u":"%3Cinit%3E()"}];updateSearchResults();
